@@ -8,4 +8,4 @@ from pycraiyon import Craiyon
 
 prompt = "Yux Making An API Wrapper" # your prompt
 Craiyon.generate(str(prompt), 0, 'result.png')
-```python
+```
