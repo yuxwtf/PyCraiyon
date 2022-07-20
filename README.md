@@ -6,7 +6,7 @@ PyCraiyon Is an API Wrapper of craiyon.com Drawing AI, With That AI You Can Gene
 Craiyon.generate(prompt, 0, save-path)
 - Prompt = Setance you want to draw (ex: a cat)
 - 0 = A number from 0-8 (result image choice) (ex: 0)
-- save-path = Draw Image Output Path (ex: ./data/result.png)
+- save-path = Drawed Image Output Path (ex: ./data/result.png)
 
 # Exemple
 
