@@ -1,5 +1,5 @@
 # PyCraiyon
-PyCraiyon Is an API Wrapper of craiyon.com Drawing AI, With That AI You Can Generate Literaly Everthing With A Advanced Drawing Artificial Intelligence.
+PyCraiyon Is an simple API Wrapper of craiyon.com Drawing AI, With That AI You Can Generate Literaly Everthing With A Advanced Drawing Artificial Intelligence.
 
 # Docs
 
