@@ -1,6 +1,5 @@
 import requests
 import base64
-import ascii2text
 
 class Craiyon:
 
